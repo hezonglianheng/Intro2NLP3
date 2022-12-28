@@ -1,0 +1,42 @@
+{"source": "She put her arms round me and gave me a hug.", "standard": "她伸出双臂拥抱我。", "answer": "她抱着我抱抱", "distance": 4}
+{"source": "The minister has called on the terrorists to lay down their arms.", "standard": "部长要求恐怖分子放下武器。", "answer": "部长呼吁恐怖分子放下武器。", "distance": 1}
+{"source": "The big banks have been accused of exploiting small firms.", "standard": "大型银行被指责剥削小企业。", "answer": "大银行被指控剥削小公司。", "distance": 3}
+{"source": "By the time we reached the opposite bank, the boat was sinking fast.", "standard": "当我们到达对岸时，船正在快速下沉。", "answer": "我们到达对岸时,船沉得很快。", "distance": 6}
+{"source": "A proper noun should start with a capital.", "standard": "专有名词首字母必须大写。", "answer": "适当的名词应从资本开始。", "distance": 6}
+{"source": "She leaves her capital untouched in the bank and lives off the interest.", "standard": "她不动用银行里的本金，靠利息生活。", "answer": "她把资本留在银行里,靠利息维持生计。", "distance": 9}
+{"source": "She asked me a question.", "standard": "她问了我一个问题。", "answer": "她问我一个问题", "distance": 2}
+{"source": "She asked her manager whether she could leave early to pick up the kids.", "standard": "她问经理自己是否可以提早离开去接孩子。", "answer": "她问她的经理,她是否可以早点离开接孩子。", "distance": 6}
+{"source": "The baby was delivered by a midwife.", "standard": "婴儿在助产士的帮助下出生了。", "answer": "婴儿由一名助产士接生。", "distance": 7}
+{"source": "Mail is delivered to our office twice a day.", "standard": "邮差每天给我们办公室投递两次邮件。", "answer": "邮件每天两次送到我们的办公室。", "distance": 8}
+{"source": "I drove my daughter to school.", "standard": "我开车送女儿上学。", "answer": "我开车送我女儿去上学。", "distance": 2}
+{"source": "In the end, it was his violent behaviour that drove her to leave home.", "standard": "最终是他的暴力行为让她离开了家。", "answer": "最终,是他的暴力行为迫使她离家出走。", "distance": 5}
+{"source": "It's been a very wet spring.", "standard": "今年春天雨很多。", "answer": "这是一个非常湿的春天。", "distance": 6}
+{"source": "a hot spring", "standard": "温泉", "answer": "温泉", "distance": 0}
+{"source": "I can't tell you how grateful I am for your help.", "standard": "我对你的帮助感激不尽。", "answer": "非常感谢你的帮助", "distance": 4}
+{"source": "I could tell you were unhappy.", "standard": "我看得出你当时很不高兴。", "answer": "我看得出你很不开心", "distance": 3}
+{"source": "I suggested an Italian restaurant near the station for the party.", "standard": "我建议聚会去火车站附近的一家意大利餐馆。", "answer": "我建议在车站附近开一家意大利餐厅 参加派对", "distance": 7}
+{"source": "There's no absolute proof, but all the evidence suggests he's guilty.", "standard": "虽然没有确凿的证据，但所有证据都表明他有罪。", "answer": "没有任何绝对的证据, 但所有的证据都表明他是有罪的。", "distance": 7}
+{"source": "He raised the window and leaned out.", "standard": "他把窗户推上去后探出身子。", "answer": "他抬起窗户,靠出来。", "distance": 6}
+{"source": "The farmer raises chickens and pigs.", "standard": "这个农场主饲养鸡和猪。", "answer": "农民饲养鸡和猪。", "distance": 4}
+{"source": "a tennis match", "standard": "网球比赛", "answer": "网球比赛", "distance": 0}
+{"source": "You should always strike a match away from you.", "standard": "擦火柴时应该离身体远一些。", "answer": "你总是应该打一场比赛 离你远点。", "distance": 9}
+{"source": "I've always had an interest in astronomy.", "standard": "我一直对天文学感兴趣。", "answer": "我对天文学一直很感兴趣", "distance": 5}
+{"source": "You should put the money in a savings account where it will earn interest.", "standard": "他们离婚时，她保留了房屋的合法产权。", "answer": "这笔钱应该放入储蓄账户,以赚取利息。", "distance": 11}
+{"source": "I really missed her when she went away.", "standard": "她离开的时候我非常想念她。", "answer": "她离开时我真的很想她", "distance": 6}
+{"source": "I missed the start of the class because my bus was late.", "standard": "我上课迟到了，因为我坐的公共汽车晚了。", "answer": "我错过了上课的开始 因为我的公交车迟到了", "distance": 10}
+{"source": "They're going away on a training course next week.", "standard": "下星期他们要出去上实习课。", "answer": "下周他们就要参加一个训练课程了", "distance": 8}
+{"source": "a golf course", "standard": "高尔夫球场", "answer": "高尔夫球场", "distance": 0}
+{"source": "He works for a company that makes software.", "standard": "他在一家软件公司工作。", "answer": "他为一家制造软件的公司工作。", "distance": 3}
+{"source": "It was a long trip, and I was grateful for his company.", "standard": "旅途漫漫，我感谢有他作伴。", "answer": "这是一个漫长的旅程, 我很感激他的陪伴。", "distance": 10}
+{"source": "a hot drink", "standard": "热饮", "answer": "热饮", "distance": 0}
+{"source": "a hot curry", "standard": "辣咖喱", "answer": "热咖咖哩", "distance": 2}
+{"source": "Stand still and be quiet!", "standard": "站好了，不要出声！", "answer": "站好,安静!", "distance": 5}
+{"source": "I can't stand her voice.", "standard": "我受不了她的声音。", "answer": "我受不了她的声音", "distance": 1}
+{"source": "Over time, their acquaintance developed into a lasting friendship.", "standard": "随着时间的推移，他们的泛泛之交变成了牢固的友谊。", "answer": "随着时间的推移,他们的熟人发展成持久的友谊。", "distance": 5}
+{"source": "We developed some old negatives from my parents' wedding day.", "standard": "我们冲洗了一些父母结婚那天拍的照片。", "answer": "我们从我父母结婚那天 发明了一些旧的底片", "distance": 9}
+{"source": "Wearing seat belts has saved many lives.", "standard": "使用安全带挽救了许多人的生命。", "answer": "系安全带拯救了许多生命。", "distance": 4}
+{"source": "Tom's been saving his pocket money every week.", "standard": "汤姆每周都把自己的零花钱攒起来。", "answer": "汤姆每周都存零用钱", "distance": 7}
+{"source": "Is there a charge for children or do they go free?", "standard": "小孩要收费还是免费？", "answer": "儿童收费还是免费?", "distance": 3}
+{"source": "The police brought a charge of theft against him.", "standard": "警方指控他犯了盗窃罪。", "answer": "警方对他提出了盗窃指控。", "distance": 4}
+{"source": "I find it's almost impossible to hold a sensible conversation with her.", "standard": "我发现几乎不可能和她进行理智的谈话。", "answer": "我发现几乎不可能 和她进行明智的对话", "distance": 3}
+{"source": "He was holding a gun.", "standard": "他当时正拿着一把枪。", "answer": "他拿着枪", "distance": 5}
