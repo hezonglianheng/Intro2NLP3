@@ -6,6 +6,9 @@
 - translate.py 执行翻译<br>
 - get_similarity.py 计算参考答案和翻译结果的余弦相似度<br>
 - get_leven_distance.py 计算参考答案和翻译结果的Levenshtein距离<br>
+- count.txt 不同模型不同语料不同参数的统计结果<br>
+- 2000014125-秦宇航-zhen.txt 中译英评测数据及结果<br>
+- 2000014125-秦宇航-enzh.txt 英译中评测数据及结果<br>
 - get_sentence_with_problem.py 获取存在问题的语料<br>
 - postprocess.py 对语料的后处理<br>
 - corpus 所使用的语料<br>
